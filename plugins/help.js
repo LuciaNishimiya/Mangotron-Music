@@ -1,7 +1,7 @@
 const { MessageEmbed } = require("discord.js");
 
 exports.run = async (client, message) => {
-  const commands =`play <Nombre de la canción o URL>\`\` - Mangotron Bot
+  const commands =`play <Nombre de la canción o URL>\`\` - Mangotron Bot :rainbow_flag: 
    pause\`\` - pausar las canciones que se están reproduciendo actualmente en el servidor
    queue\`\` - Muestra la cola de canciones del servidor
    skip\`\` - Salta a la siguiente canción en la cola
