@@ -19,7 +19,7 @@ exports.run = async (client, message) => {
   message.channel.send(
     new MessageEmbed()
       .setAuthor(
-        "Mangotron MusicBot https://mondongo.cf/",
+        "Mangotron MusicBot https://mondongo.cf/ ",
         "https://mondongo.cf/assets/img/bot/logo.gif"
       )
       .setColor("FFFBFB")
