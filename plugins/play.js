@@ -143,7 +143,7 @@ exports.run = async (client, message, args) => {
           .addField("vistas", track.views, false)
           .addField("Duración", track.duration, false)
           .addField("Solicitado por", track.requested, false)
-          .setFooter("Reproductor de música de Youtube")
+          .setFooter("Mangotron Bot")
       );
     } catch (e) {
       console.error(e);
