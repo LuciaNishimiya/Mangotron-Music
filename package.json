@@ -1,7 +1,7 @@
 {
   "name": "Mangotron-Music",
   "version": "1.0.0",
-  "description": "El bot de música discord de código abierto en español más cutre y generico, hecho por Lucia_Nishimiya",
+  "description": "El bot de música discord de código abierto en español más cutre y generico",
   "main": "index.js",
   "author": "Lucia_Nishimiya",
   "license": "MIT",
@@ -10,16 +10,15 @@
   },
   "dependencies": {
     "@discordjs/opus": "^0.9.0",
-    "discord-ytdl-core": "^5.0.1",
+    "discord-ytdl-core": "^5.0.4",
     "discord.js": "^12.3.1",
-    "dotenv": "^8.2.0",
-    "ffmpeg": "0.0.4",
-    "ffmpeg-static": "^4.2.7",
-    "fs": "0.0.1-security",
-    "lyrics-finder": "^21.4.0",
+    "dotenv": "^16.0.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "lyrics-finder": "^21.7.0",
     "node-opus": "^0.3.3",
-    "opusscript": "^0.0.7",
-    "yt-search": "^2.2.4",
-    "ytdl-core": "^4.1.1"
+    "opusscript": "^0.0.8",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.4"
   }
 }
